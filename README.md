@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LIGhtpn
-- 👀 I’m interested in chatbots
-- 🌱 I’m currently learning how to develop a chat bot
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to develop websites 
+- 💞️ I’m looking to collaborate on app development 
 - 📫 How to reach me ...
 
 <!---
